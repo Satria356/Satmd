@@ -1,0 +1,16 @@
+{
+    "ownerNumber": ["62895379169488@s.whatsapp.net"],
+    "ownerName": ["X-None Team"],
+    "botName": "X-None Bot",
+    "apikey": "BELI ATUH DI LOLHUMAN",
+    "saweria": "fadlyid",
+    "instagram": "iamfadlyid_",
+    "sessionName": "xnone-md",
+    "pathimg": "./media/x-none.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
